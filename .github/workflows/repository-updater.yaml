@@ -7,10 +7,6 @@ on:
     types: ["update"]
 
 jobs:
-  # workflows:
-  #   uses: hassio-addons/workflows/.github/workflows/repository-updater.yaml@main
-  #   secrets:
-  #     UPDATER_TOKEN: ${{ secrets.UPDATER_TOKEN }}
   workflows:
     name: Publish add-on update
     runs-on: ubuntu-latest
