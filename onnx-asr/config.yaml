@@ -1,5 +1,5 @@
 ---
-version: dev
+version: 3edeacc
 slug: onnx-asr
 name: ONNX ASR
 description: Speech-to-text with ONNX ASR
