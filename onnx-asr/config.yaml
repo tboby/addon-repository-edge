@@ -1,4 +1,4 @@
-version: 4e68e68
+version: d0939bd
 slug: onnx-asr
 name: ONNX ASR
 description: Speech-to-text with ONNX ASR
