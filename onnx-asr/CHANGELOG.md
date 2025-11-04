@@ -1,8 +1,9 @@
-# Changelog since v0.1.3
-- Merge pull request #4 from tboby/update
+## What’s changed
 
-Update wyoming onnx asr version to remove "en" from multilingual 
-- Update wyoming onnx asr version to remove "en" from multilingual 
-- Update deploy.yaml 
-- Update deploy.yaml 
-- Update deploy.yaml 
+## 🚨 Breaking changes
+
+- Update to add parakeet v3 @tboby ([#5](https://github.com/tboby/onnx-asr-addon/pull/5))
+
+## 🚀 Enhancements
+
+- Update to add parakeet v3 @tboby ([#5](https://github.com/tboby/onnx-asr-addon/pull/5))
