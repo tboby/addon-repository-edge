@@ -1,5 +1,5 @@
-# Changelog since v0.2.0
-- Merge pull request #6 from tboby/update-onnx-asr
+# Changelog since v0.3.0
+- Merge pull request #7 from tboby/fix-backup
 
-Update wyoming-onnx-asr to 0.5.0 
-- Update wyoming-onnx-asr 
+Prevent model being backed up 
+- Prevent model being backed up 
